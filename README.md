@@ -12,7 +12,7 @@ I'm a passionate Full-Stack Developer with expertise in:
 ## 🚀 Featured Projects
 - **[Arabic-and-Yemeni-tweets-sentiment](https://github.com/mousamofreh/Arabic-and-Yemeni-tweets-sentiment)**  
   Sentiment analysis for Arabic and Yemeni dialect tweets using NLP and machine learning.
-- **[my-portfolio)**  
+- **[my-portfolio](https://github.com/mousamofreh/my-portfolio)**  
   A portfolio web site using TypeScripts, React, and Vite.
 
 ## 🛠️ Technologies & Tools
