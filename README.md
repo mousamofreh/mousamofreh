@@ -5,8 +5,10 @@ Welcome to my GitHub profile!
 ## 👨‍💻 About Me
 I'm a passionate Full-Stack Developer with expertise in:
 - **C# / ASP.NET Core**
-- **React, JavaScript, HTML, CSS**
+- **JavaScript, HTML, CSS, Bootstrap, Tailwind, PHP**
 - **Python / Django**
+- **Flutter & Dart**
+- **SQL, MYSQL**
 - Data Science & NLP (Arabic and Yemeni sentiment analysis)
 
 ## 🚀 Featured Projects
