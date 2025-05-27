@@ -8,7 +8,6 @@ I'm a passionate Full-Stack Developer with expertise in:
 - **JavaScript, HTML, CSS, Bootstrap, Tailwind, PHP**
 - **Python / Django**
 - **Flutter & Dart**
-- **SQL, MYSQL**
 - Data Science & NLP (Arabic and Yemeni sentiment analysis)
 
 ## 🚀 Featured Projects
